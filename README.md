@@ -1,2 +1,2 @@
 # Temperature-Convertor
-A basic Temperature-Convertor from celcius,kelvin and farenheit to celcius,kelvin and farenheit 
+A basic Temperature-Convertor from celcius,kelvin,farenheit and rankine to celcius,kelvin,farenheit and rankine 
